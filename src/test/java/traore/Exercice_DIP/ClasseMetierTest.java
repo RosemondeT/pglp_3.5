@@ -2,22 +2,18 @@ package traore.Exercice_DIP;
 
 
 
-import org.junit.Before;
 
+import org.junit.Test;
 
 import junit.framework.TestCase;
 
 public class ClasseMetierTest extends TestCase {
-	ClasseMetier informaticen;
-	DebutMetier debut;
-	FinMetier fin;
+   
+   Logger logger;
 	
 	
-	@Before
-	  public void setup() {
-		 debut = new DebutMetier();
-		 fin = new FinMetier();
-		
-	
-}
+	@Test
+	public void AffichageTest() {
+		logger.affichage();
+	}
 }
