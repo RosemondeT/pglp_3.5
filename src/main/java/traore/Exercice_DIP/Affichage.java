@@ -2,6 +2,12 @@ package traore.Exercice_DIP;
 
 import java.time.LocalDateTime;
 
+/**
+ * 
+ * Classe Affichage
+ *
+ */
+
 public class Affichage implements Logger{
 	public void affichage()
 	{
