@@ -1,9 +1,11 @@
 package traore.Exercice_DIP;
 
 
-
-
 import org.junit.Test;
+
+/**
+ * Classe de test
+ */
 
 import junit.framework.TestCase;
 
