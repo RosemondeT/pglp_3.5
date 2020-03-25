@@ -27,7 +27,7 @@ under the License.
     <item>
       <title>File: 3,
              Errors: 0,
-             Warnings: 21,
+             Warnings: 26,
              Infos: 0
       </title>
             <link>http://maven.apache.org/checkstyle.html</link>
@@ -46,27 +46,13 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_DIP.FinMetier.java">traore/Exercice_DIP/FinMetier.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_DIP.Metier.java">traore/Exercice_DIP/Metier.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  9
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_DIP.DebutMetier.java">traore/Exercice_DIP/DebutMetier.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  8
+                  7
                 </td>
                 <td>
                   0
@@ -74,13 +60,27 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_DIP.ClasseMetier.java">traore/Exercice_DIP/ClasseMetier.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_DIP.Logger.java">traore/Exercice_DIP/Logger.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
                   4
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_DIP.Affichage.java">traore/Exercice_DIP/Affichage.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  15
                 </td>
                 <td>
                   0
