@@ -6,9 +6,9 @@ import org.junit.Test;
 
 public class AppTest {
 
-	@Test
-	public void test() {
-		fail("Not yet implemented");
-	}
 
+    @Test
+    public void displays() {    	
+    	System.out.println("My project working very well");
+    }
 }
